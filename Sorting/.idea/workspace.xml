@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="138d1c97-090d-4d3b-87f6-6f9f7e8add04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CyclicSort/cyclicsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort/insertionsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSort/mergesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuickSort/quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyclicSort/FindAllDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyclicSort/FindAllMissing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyclicSort/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyclicSort/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyclicSort/MissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyclicSort/SetMismatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,5 +135,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CyclicSort/FindAllDuplicates.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CyclicSort/FindAllDuplicates.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
